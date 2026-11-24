@@ -7,7 +7,7 @@ Welcome to my Python learning journey! This repository contains my Python notes,
 
 - 🎓 Course: Python Programming
 - 🌐 Platform: YouTube
-- - 👨‍🏫 Instructor: [Mohit Decodes](https://www.youtube.com/@MohitDecodes)
+- - 👨‍🏫 Instructor: [Mohit Kumar(Mohit Decodes)](https://www.youtube.com/@MohitDecodes)
 - 💻 Learning Mode: Self-Learning
 
 ## 🎯 Learning Goals
