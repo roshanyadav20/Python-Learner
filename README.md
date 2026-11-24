@@ -2,41 +2,40 @@
 # 🐍 Python-Learner
 
 Welcome to my Python learning journey! This repository contains my Python notes, practice programs, coding exercises, and projects.
+__________________________________________________________________________________________________________________________________
 
 ## 📚 Learning Source
 
-- 🎓 Course: Python Programming
-- 🌐 Platform: YouTube
-- - 👨‍🏫 Instructor: [Mohit Kumar(Mohit Decodes)](https://www.youtube.com/@MohitDecodes)
-- 💻 Learning Mode: Self-Learning
-
+- 🎓 **Course**: Data Science/ML with AI
+- 🌐 **Platform**: [https://kodetocareer.com]
+- 👨‍🏫 **Instructor**: [Mehak]
+- 💻 **Learning Mode**: Online Learning
+___________________________________________________________________________________________________________________________________
 ## 🎯 Learning Goals
 
-My goal is to become a Data Scientist by developing strong programming, analytical, and problem-solving skills.
+"My goal is to become a Data Scientist by developing strong programming, analytical, and problem-solving skills."
+___________________________________________________________________________________________________________________________________
 
-- 🐍 Understand Python fundamentals.
-- 📦 Learn variables and data types.
-- 🔄 Master conditional statements and loops.
-- ⚙️ Learn functions and lambda functions.
-- 🏗️ Understand OOP concepts (Class, Object, Inheritance).
-- 📂 Learn file handling and exception handling.
-- 💡 Practice Python coding problems.
-- 📊 Learn NumPy and Pandas.
-- 📈 Learn data visualization.
-- 🤖 Understand Machine Learning fundamentals.
-- 🚀 Build real-world Data Science projects.
-- 🧠 Improve analytical and problem-solving skills.
+## 📚 Course Modules
 
+**Module 01**: Python Programming
+
+-🧩 **Core Syntax:** Variables, basic operators, data types, and conditional structures.
+-🔄 **Functions & Loops:** Writing reusable functions, list comprehensions, and while/for loops.
+-🏗️ **OOP Principles:** Designing classes, inheritance, encapsulation, and exception handling.
+-📂 **Data Operations:** File reading/writing, JSON payloads, directories, and standard Python modules.
+___________________________________________________________________________________________________________________________________
 ## 📖 Classes
 
 - ✅ Class 01: Hello World
 - ✅ Class 02: Variables and Data Types
 - ✅ Class 03: Input and Output
-
+___________________________________________________________________________________________________________________________________
 ## 🎯 Career Goal
 
-To become a skilled Data Scientist by mastering Python, Data Analysis, and Machine Learning, and applying these skills to solve real-world problems.
-
+To become a skilled Data Scientist by mastering Python, Data Analysis, and Machine Learning, and applying these skills to solve 
+real-world problems.
+___________________________________________________________________________________________________________________________________
 ## 📌 My Progress
 
 I am continuously learning and practicing Python through hands-on coding examples and real-world projects.
