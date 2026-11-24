@@ -4,11 +4,6 @@
 Welcome to my Python learning journey! This repository contains my Python notes, practice programs, coding exercises, and projects.
 __________________________________________________________________________________________________________________________________
 
-## 🎯 Learning Goals
-
-"My goal is to become a Data Scientist by developing strong programming, analytical, and problem-solving skills."
-___________________________________________________________________________________________________________________________________
-
 ## 📚 Course Modules
 
 **Module 01**: Python Programming
@@ -24,11 +19,10 @@ ________________________________________________________________________________
 - ✅ Class 02: Variables and Data Types
 - ✅ Class 03: Input and Output
 ___________________________________________________________________________________________________________________________________
-## 🎯 Career Goal
+## 🎯 Learning Goals
 
-To become a skilled Data Scientist by mastering Python, Data Analysis, and Machine Learning, and applying these skills to solve 
-real-world problems.
+"My goal is to become a Data Scientist by developing strong programming, analytical, and problem-solving skills."
 ___________________________________________________________________________________________________________________________________
 ## 📌 My Progress
 
-I am continuously learning and practicing Python through hands-on coding examples and real-world projects.
+"I am continuously learning and practicing Python through hands-on coding examples and real-world projects."
