@@ -13,10 +13,10 @@ ________________________________________________________________________________
 
 **Module 01**: Python Programming
 
--🧩 **Core Syntax:** Variables, basic operators, data types, and conditional structures.
--🔄 **Functions & Loops:** Writing reusable functions, list comprehensions, and while/for loops.
--🏗️ **OOP Principles:** Designing classes, inheritance, encapsulation, and exception handling.
--📂 **Data Operations:** File reading/writing, JSON payloads, directories, and standard Python modules.
+-🧩 **Core Syntax**: Variables, basic operators, data types, and conditional structures.
+-🔄 **Functions & Loops**: Writing reusable functions, list comprehensions, and while/for loops.
+-🏗️ **OOP Principles**: Designing classes, inheritance, encapsulation, and exception handling.
+-📂 **Data Operations**: File reading/writing, JSON payloads, directories, and standard Python modules.
 ___________________________________________________________________________________________________________________________________
 ## 📖 Classes
 
@@ -32,5 +32,3 @@ ________________________________________________________________________________
 ## 📌 My Progress
 
 I am continuously learning and practicing Python through hands-on coding examples and real-world projects.
-
-⭐ Learning Today, Growing Tomorrow!
