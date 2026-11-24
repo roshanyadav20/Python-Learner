@@ -1,16 +1,9 @@
 
-# 🐍 Python-Learner
+# 🐍 Python-Learner 2026
 
 Welcome to my Python learning journey! This repository contains my Python notes, practice programs, coding exercises, and projects.
 __________________________________________________________________________________________________________________________________
 
-## 📚 Learning Source
-
-- 🎓 **Course**: Data Science/ML with AI
-- 🌐 **Platform**: [https://kodetocareer.com]
-- 👨‍🏫 **Instructor**: [Mehak]
-- 💻 **Learning Mode**: Online Learning
-___________________________________________________________________________________________________________________________________
 ## 🎯 Learning Goals
 
 "My goal is to become a Data Scientist by developing strong programming, analytical, and problem-solving skills."
