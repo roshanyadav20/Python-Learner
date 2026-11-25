@@ -18,7 +18,8 @@ ________________________________________________________________________________
 - ✅ Class 01: Hello World
 - ✅ Class 02: Variables and Data Types
 - ✅ Class 03: Input and Output
-- ✅ Class 04: Operators 
+- ✅ Class 04: Arithmetic, Comparison, Logical & Assignment Operators
+- ✅ Class 05: Basic Operations, Slicing & Functions 
 ___________________________________________________________________________________________________________________________________
 ## 🎯 Learning Goals
 
