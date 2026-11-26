@@ -20,6 +20,7 @@ ________________________________________________________________________________
 - ✅ Class 03: Input and Output
 - ✅ Class 04: Arithmetic, Comparison, Logical & Assignment Operators
 - ✅ Class 05: Basic Operations, Slicing & Functions 
+- ✅ Class 06: Conditions Statement 
 ___________________________________________________________________________________________________________________________________
 ## 🎯 Learning Goals
 
